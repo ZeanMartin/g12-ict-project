@@ -1,0 +1,97 @@
+body {
+    background-color: rgb(94, 31, 31);
+    margin-right: 5px;
+    margin-left: 5px;
+    
+}
+
+    button {
+     float: right; 
+     background-color: rgb(146, 115, 115);
+     text-decoration: none;
+    }
+
+    .div-1-name{
+        text-indent: 20px;
+        background-color: rgb(198, 204, 198);
+        padding: 5px;
+        border-radius: 5px;
+    }
+    a {
+        text-decoration: none;
+        color: black;
+
+    }
+
+    img {
+        height: 130px;
+        width: 130px;
+        float: left;
+        border-radius: 50px;color: rgb(143, 43, 43);
+        
+    }
+
+    .p-1-bletters {
+        background-color:  rgb(198, 204, 198);
+        margin-right: 80%;
+        border-radius: 3px;
+        border-style: outset;
+        text-shadow: 2px 2px 5px maroon;
+    }
+
+    ul {
+        background-color: rgb(198, 204, 198);
+        border-radius: 3px;
+        padding: 5px;
+    }
+
+    .div-2-perso-info {
+        background-color: rgb(198, 204, 198);
+        border-radius: 3px;
+        padding: 5px;
+    }
+
+
+
+    h4 {
+        background-color:rgb(198, 204, 198);
+        border-radius: 3px;
+        
+    }
+
+    .div-3-edu {
+        background-color: rgb(198, 204, 198);
+        border-radius: 3px;
+        padding: 5px;
+    }
+
+    .training {
+        background-color: rgb(198, 204, 198);
+    }
+
+    .cha-ref {
+        background-color: rgb(198, 204, 198);
+        border-radius: 3px;
+        padding: 5px;
+    }
+    .certify {
+        background-color: rgb(198, 204, 198);
+        border-radius: 3px;
+    }
+
+    .div-4 {
+        background-color: rgb(198, 204, 198);
+        border-radius: 3px;
+        float: right;
+    }
+
+
+    hr {
+        height: 1px;
+        background-color: darkred;
+    }
+
+    
+
+
+    

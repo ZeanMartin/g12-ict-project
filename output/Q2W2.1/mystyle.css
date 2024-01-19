@@ -1,0 +1,71 @@
+/* my stle my web */
+
+    span {
+        color: #28569b;
+    }
+
+    a {
+        color: #000000;
+        text-decoration: none;
+    }
+
+    .h4-1 {
+        margin-left: 3px;
+    }
+
+
+    .div-1-picture {
+        float: right;
+    }
+
+
+
+    .learn {
+        color: #ff0000;
+        text-decoration: none;
+    }
+
+    video {
+        
+        margin: auto;
+        width: 100%;     
+    }
+
+    .div-2-vid {
+        background-color: #fad168;
+        padding: 10px 10px 10px 10px;
+    }
+
+    .div-3-bg {
+        background-color: #d3d3d3;
+
+    }
+
+    .img-1-girl{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+
+    }
+    
+    h4 {
+        margin-left: 41%;
+       
+    }
+    .p-1-below-img {
+        text-align: center;
+    }
+
+    footer {
+        background-color: #d3d3d3;
+        padding-bottom: 30px;
+    }
+
+    .div-4-footer {
+        float: right;
+    }
+
+    hr {
+        height: 1px;
+        background-color: #28569b;
+    }
